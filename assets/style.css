@@ -17,9 +17,7 @@
 .small {
     width: 30%;
     display:inline-block;
-    
     background-color: blue;
-    margin: 0px 2% 500px 2%;
 }
 
 .small h4 {
